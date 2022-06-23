@@ -13,7 +13,7 @@
 
 - 👨‍💻 Portifólio: [https://NickMendes.github.io/](https://NickMendes.github.io/)
 
-- 📫 E-mail: **marina@sirq.com.br**
+- 📫 E-mail: **nick--mendes@outlook.com**
 
 - ⚡ Curiosidade: **Meu apelido surgiu em 2007 quando iniciei a vida "gamer" jogando Tibia.**
 
