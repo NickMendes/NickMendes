@@ -1,4 +1,5 @@
-<h1 align="center">Olá, sou a Marina</h1>
+<h1 align="center">Olá, sou a Nick</h1>
+<h4 align="right">Ou Marina para os intimos<h4> 
 <h3 align="center">Sou uma desenvolvedora Front End, engenheira civil e consultora de qualidade apaixonada por tecnologia.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickmendes" alt="nickmendes" /></a> </p> -->
