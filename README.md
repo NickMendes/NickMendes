@@ -3,13 +3,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickmendes" alt="nickmendes" /></a> </p> -->
 
-- 📚 Atualmente eu estou estudando para me tornar uma desenvolvedora Full Stack na **Trybe**
+- 📚 Atualmente eu estou estudando para me tornar uma desenvolvedora Full Stack na Trybe.
 
-- 💡 Estou estudando o módulo referente a Back **End**
+- 💡 Estou estudando o módulo referente a Back End.
 
-- 💡 Já completei o módulo referente de HTML e **CSS**
+- 💡 Já completei o módulo referente de HTML e CSS.
 
-- 💡 Já completei o módulo referente a Front **End**
+- 💡 Já completei o módulo referente a Front End.
 
 - 👨‍💻 Portifólio: [https://NickMendes.github.io/](https://NickMendes.github.io/)
 
