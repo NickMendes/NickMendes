@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou a Marina</h1>
 <h3 align="center">Sou uma desenvolvedora Front End, engenheira civil e consultora de qualidade apaixonada por tecnologia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicksam97" alt="nicksam97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickmendes" alt="nickmendes" /></a> </p>
 
 - 📚 Atualmente eu estou estudando para me tornar uma desenvolvedora Full Stack na **Trybe**
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicksam97&show_icons=true&locale=en&layout=compact" alt="nicksam97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicksam97&show_icons=true&locale=en" alt="nicksam97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickmendes&show_icons=true&locale=en" alt="nickmendes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicksam97&" alt="nicksam97" /></p>
