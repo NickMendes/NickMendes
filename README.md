@@ -8,9 +8,9 @@
 
 - 💡 Estou estudando o módulo referente a Back End.
 
-- 💡 Já completei o módulo referente de HTML e CSS.
+- 💡 Completei o módulo referente de HTML e CSS.
 
-- 💡 Já completei o módulo referente a Front End.
+- 💡 Completei o módulo referente a Front End.
 
 - 👨‍💻 Portifólio: [https://NickMendes.github.io/](https://NickMendes.github.io/)
 
