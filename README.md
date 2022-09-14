@@ -12,7 +12,7 @@
 
 - 💡 Completei o módulo referente a Front End.
 
-- 👨‍💻 Portifólio: [https://NickMendes.github.io/](https://NickMendes.github.io/)
+- 👨‍💻 Portifólio: [https://portifolionickmendes.herokuapp.com/)
 
 - 📫 E-mail: **nick--mendes@outlook.com**
 
