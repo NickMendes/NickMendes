@@ -1,18 +1,12 @@
 <h1 align="center">Olá, sou a Nick</h1>
 <h4 align="right">Ou Marina para os intimos<h4> 
-<h3 align="center">Sou uma desenvolvedora Front End, engenheira civil e consultora de qualidade apaixonada por tecnologia.</h3>
+<h3 align="center">Sou uma desenvolvedora FullSatck atualmente trabalhando em BackEnd, engenheira civil e consultora de qualidade apaixonada por tecnologia.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickmendes" alt="nickmendes" /></a> </p> -->
 
-- 📚 Atualmente eu estou estudando para me tornar uma desenvolvedora Full Stack na Trybe.
-
-- 💡 Estou estudando o módulo referente a Back End.
-
-- 💡 Completei o módulo referente de HTML e CSS.
-
-- 💡 Completei o módulo referente a Front End.
-
-- 👨‍💻 Portifólio: [https://portifolionickmendes.herokuapp.com/)
+- 💡 Trabalho na PagoNxt como Analista de TI Junior (Authorization Switch)
+ 
+- 📚 Atualmente eu estou estudando para me tornar uma desenvolvedora Full Stack na Trybe 3/4.
 
 - 📫 E-mail: **nick--mendes@outlook.com**
 
@@ -45,8 +39,10 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="140" height="50"/> </a>
  <!-- MongoDB -->
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="140" height="50"/> </a>
- <!-- MongoDB -->
+ <!-- SOLID -->
  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" alt="Solid" width="140" height="50"/> </a>
+ <!-- Python -->
+ <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Solid" width="140" height="50"/> </a> -->
  
 </p>
 
