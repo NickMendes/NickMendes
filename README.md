@@ -4,9 +4,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickmendes" alt="nickmendes" /></a> </p> -->
 
-- 💡 Trabalho na PagoNxt como Analista de TI Junior (Authorization Switch)
+- 💡 Trabalho na PagoNxt (Empresa Santader) como Analista de TI Junior.
  
-- 📚 Atualmente eu estou estudando para me tornar uma desenvolvedora Full Stack na Trybe 3/4.
+- 📚 Formada no curso de Desenvolvimento Web JavaScript da Trybe
 
 - 📫 E-mail: **nick--mendes@outlook.com**
 
