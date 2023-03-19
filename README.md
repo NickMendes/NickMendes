@@ -52,13 +52,6 @@
  
 <!-- Redux -->
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" width="140" height="40"/> </a>
- 
-<!-- Vercel -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" width="140" height="40"/> </a>
-
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="140" height="40"/> </a>
-</p>
 
  ## BackEnd
 <p align="left">
