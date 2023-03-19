@@ -85,6 +85,8 @@
 <!-- Chai -->
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465" alt="chai" width="120" height="40"/> </a>
 </p>
+ 
+ ## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickMendes&show_icons=true&locale=en&layout=compact" alt="NickMendes" /></p>
 
