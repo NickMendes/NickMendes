@@ -26,6 +26,9 @@
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="180" height="40"/> </a>
 </
+ <!-- Pytohn -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="MongoDB" width="140" height="40"/> </a>
+</
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="100" height="40"/> </a>
 </
@@ -34,7 +37,12 @@
 </
 <!-- Docker -->
 <a href="https://www.docker.com/company/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="140" height="40"/> </a>
+</
+ <!-- Azure -->
+<a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" width="140" height="40"/> </a>
 </p>
+
+
  
  ## FrontEnd
 <p align="left">
