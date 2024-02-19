@@ -27,7 +27,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="180" height="40"/> </a>
 </
  <!-- Pytohn -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="MongoDB" width="140" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="140" height="40"/> </a>
 </
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="100" height="40"/> </a>
@@ -69,6 +69,9 @@
 <!-- ExpressJS -->
 <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" width="160" height="40"/> </a>
 </
+<!-- Fantify -->
+<a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify" width="160" height="40"/> </a>
+</
 <!-- JWT -->
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="expressjs" width="100" height="40"/> </a>
 </
@@ -89,9 +92,6 @@
 </
 <!-- Mocha -->
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha" width="120" height="40"/> </a>
-</
-<!-- Chai -->
-<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465" alt="chai" width="120" height="40"/> </a>
 </p>
  
  ## Stats
